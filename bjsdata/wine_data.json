@@ -1,4 +1,4 @@
-"matchers": [
+{"matchers": [
         {
             "matches": {
                 "1A2A3A10A11A": [
@@ -41712,3 +41712,4 @@
             }
         }
     ]
+}
