@@ -35913,11 +35913,12 @@
             "brandName": "Juggernaut",
             "productName": "Hillside Cabernet",
             "fullName": null,
-            "description": "French oak beautifully transforms intense hillside fruit into a wine with uncommon richness and smooth, luxurious texture. ",
+            "description": "French oak beautifully transforms intense hillside fruit into a wine with uncommon richness and smooth, luxurious texture.",
             "location": "California",
-            "tastingNotes": "Vanilla & Ripe Black Currants",
-            "mealPairings": "Porterhouse Steak ",
+            "tastingNotes": "605pe, uvff6",
+            "mealPairings": "51cp7",
             "award": null,
+            "stores": "7,8,10,13,15,20,23,29,34,39,51,55,62,84,91,101,105,107,109,110,114,128,129,134,151,179,211,216,219,220,224,225,227,228,231,233,237,239,246,382,392,399",
             "id": "343409"
         },
         {
@@ -35933,9 +35934,10 @@
             "fullName": null,
             "description": "A family-owned classic, this Cabernet consistently delivers rich, full-bodied flavor with a signature touch of American oak.",
             "location": "Clarksburg, CA",
-            "tastingNotes": "Fruity, Cherry, Oak",
-            "mealPairings": "Steak, BBQ, Burgers",
+            "tastingNotes": "wwwd4, fieu4, 6a5w4",
+            "mealPairings": "51cp7, uvff6",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,320,351,357,360,361,365,367,374,378,381,382,383,384,385,387,388,389,390,391,392,396,397,398,399",
             "id": "11789"
         },
         {
@@ -35951,9 +35953,10 @@
             "fullName": null,
             "description": "A rich and satisfying Merlot that showcases deep, velvety fruit flavors and a smooth, supple texture on the palate.",
             "location": "Clarksburg, CA",
-            "tastingNotes": "Plum, Chocolate",
-            "mealPairings": "Mushroom Risotto",
+            "tastingNotes": "sthvj, qg4lr",
+            "mealPairings": "4j4uf",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,101,102,105,106,107,108,109,110,111,114,115,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,351,357,360,361,365,367,374,378,381,382,383,384,385,389,390,391,392,394,396,397,398,399",
             "id": "4364"
         },
         {
@@ -35969,9 +35972,10 @@
             "fullName": null,
             "description": "Sourced from heritage vines, this Zinfandel is bold and jammy, packed with character, spice, and a robust structure.",
             "location": "Clarksburg, CA",
-            "tastingNotes": "Blackberry, Peppery, Vanilla",
-            "mealPairings": "Pork BBQ",
+            "tastingNotes": "51cp7, yz87e, 605pe",
+            "mealPairings": "lhkeb",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,114,115,118,120,122,123,124,126,128,129,133,134,135,139,144,146,147,150,151,154,169,170,171,174,177,179,180,181,183,186,191,197,198,199,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,351,357,360,361,367,374,378,381,382,383,384,385,389,390,391,392,394,396,397,398,399",
             "id": "12058"
         },
         {
@@ -35987,9 +35991,10 @@
             "fullName": null,
             "description": "Full of concentration and intensity, this wine will tease, tantalize and linger long after the last sip is gone.",
             "location": "California",
-            "tastingNotes": "Wild Berries, Baking Spices, Toasty Vanilla",
-            "mealPairings": "Grilled Lamb Chops ",
+            "tastingNotes": "2mkue, e1i4f, 605pe",
+            "mealPairings": "z7oxt",
             "award": null,
+            "stores": "8,10,13,15,17,20,23,29,31,34,55,69,70,84,91,96,101,102,105,108,109,110,114,115,118,122,124,126,128,129,133,134,135,139,151,152,154,169,170,180,181,183,186,188,191,197,198,199,211,214,215,219,220,221,223,226,227,231,233,235,237,238,239,240,244,309,310,357,361,365,378,382,384,389,390,391,392,394,396,399",
             "id": "342240"
         },
         {
@@ -36000,14 +36005,15 @@
             "color": "Red",
             "spotlight": false,
             "imageUrl": "https://firebasestorage.googleapis.com/v0/b/looma-dsn-v3.appspot.com/o/surveys%2Fbjs%2Fwine%2F194379.webp?alt=media",
-            "brandName": "Casillero Diablo",
+            "brandName": "Casillero del Diablo",
             "productName": "Cabernet Sauvignon",
             "fullName": null,
             "description": "A legendary Chilean Cabernet, known for its smooth texture and rich layers of dark fruit balanced by a hint of toasty oak.",
             "location": "Chile",
-            "tastingNotes": "Blackcurrant, Cherry, Chocolate",
-            "mealPairings": "Steak, BBQ, Burgers",
+            "tastingNotes": "fieu4, sthvj, qg4lr",
+            "mealPairings": "51cp7, oeiq0, uvff6",
             "award": null,
+            "stores": "8,10,32,51,54,91,101,106,107,108,109,111,120,125,126,128,129,130,133,135,152,154,169,170,174,179,181,183,188,191,199,223,226,227,233,238,357,361,365,367,382,392,396",
             "id": "194379"
         },
         {
@@ -36021,11 +36027,12 @@
             "brandName": "Trivento",
             "productName": "Malbec Reserve",
             "fullName": null,
-            "description": "A classic Argentine Malbec that is bold and full-bodied, showcasing the rich dark fruit and velvety texture of the region.",
+            "description": "A classic Argentine Malbec that is bold and full-bodied, showcasing the rich dark fruit, vanilla, and smooth velvety texture of the region.",
             "location": "Mendoza, Argentina",
-            "tastingNotes": "Plum, Blackberry, Vanilla",
-            "mealPairings": "Steak, BBQ, Burgers",
+            "tastingNotes": "sthvj, 51cp7, 605pe",
+            "mealPairings": "51cp7, uvff6",
             "award": null,
+            "stores": "7,8,10,13,15,20,23,29,33,34,36,39,51,55,62,70,84,91,105,107,108,109,114,126,128,129,134,139,179,181,211,214,216,219,220,223,224,225,227,228,231,233,237,244,246,382,391,392,399",
             "id": "328203"
         },
         {
@@ -36040,10 +36047,11 @@
             "productName": "Riserva Ducale Chianti Classico",
             "fullName": null,
             "description": "An iconic Tuscan red, this Chianti Classico Riserva is elegant and savory with complex layers of fruit and spice.",
-            "location": "Chianti Classico region of Tuscany, Italy ",
-            "tastingNotes": "Cherry, Berry",
-            "mealPairings": "Mushroom Risotto",
+            "location": "Chianti Classico region of Tuscany, Italy",
+            "tastingNotes": "fieu4, 2mkue",
+            "mealPairings": "4j4uf",
             "award": "winespectator_93",
+            "stores": "8,10,13,15,23,34,39,51,55,70,84,101,105,107,110,126,128,129,134,139,144,146,147,150,151,152,177,180,186,198,203,211,219,223,224,234,235,236,246,382,383,384,385,389,392,394,397",
             "id": "228907"
         },
         {
@@ -36059,9 +36067,10 @@
             "fullName": null,
             "description": "Ruffino's top expression of Chianti Classico, this wine is exceptionally complex, elegant, and worthy of special occasions.",
             "location": "Chianti Classico Gran Selezion, Italy",
-            "tastingNotes": "Chocolate, Peppery",
-            "mealPairings": "Lasagna Bolognese",
+            "tastingNotes": "qg4lr, yz87e",
+            "mealPairings": "di32h",
             "award": null,
+            "stores": "8,13,15,17,20,23,31,34,39,41,55,69,70,84,91,96,101,102,105,107,108,109,110,114,115,118,120,126,128,129,133,134,135,139,144,147,150,151,152,154,169,170,171,177,181,183,188,191,197,198,199,211,214,215,219,220,221,223,226,227,231,233,237,238,239,244,246,309,310,320,357,361,365,374,382,384,385,389,390,392",
             "id": "342247"
         },
         {
@@ -36077,9 +36086,10 @@
             "fullName": null,
             "description": "An iconic and beloved California red blend, famous for its unique varietal mix and its rich, velvety, powerful style.",
             "location": "California, USA",
-            "tastingNotes": "Berry, Vanilla, Blackberry",
-            "mealPairings": "Grilled Meats",
+            "tastingNotes": "2mkue, 605pe, 51cp7",
+            "mealPairings": "51cp7, uvff6",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,320,351,357,360,361,365,374,381,382,383,384,385,389,390,391,392,394,396,397,398,399",
             "id": "27487"
         },
         {
@@ -36095,9 +36105,10 @@
             "fullName": null,
             "description": "America's favorite Cabernet, offering a balanced and approachable profile of rich dark fruits with a hint of spice.",
             "location": "California, USA",
-            "tastingNotes": "Blackberry, Oak, Baking Spice",
-            "mealPairings": "Steak, BBQ, Burgers",
+            "tastingNotes": "51cp7, 6a5w4, e1i4f",
+            "mealPairings": "51cp7, uvff6",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,320,351,357,360,361,365,367,374,378,381,382,383,384,385,387,388,389,390,391,392,394,396,397,398,399",
             "id": "188144"
         },
         {
@@ -36113,9 +36124,10 @@
             "fullName": null,
             "description": "A smooth, full-bodied red blend that pays tribute to heritage, delivering layers of ripe fruit and complex spices.",
             "location": "California, USA",
-            "tastingNotes": "Blackberry, Chocolate, Baking Spice",
-            "mealPairings": "Tacos, Burritos",
+            "tastingNotes": "51cp7, qg4lr, e1i4f",
+            "mealPairings": "f6u3q, s0sny",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,33,34,36,39,41,46,51,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,198,199,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,244,246,351,357,360,361,365,367,374,381,382,383,384,385,389,390,391,392,394,396,397,398,399",
             "id": "38391"
         },
         {
@@ -36131,9 +36143,10 @@
             "fullName": null,
             "description": "Velvety and approachable, this Merlot showcases lush red fruit flavors with a hint of mocha for a smooth, easy finish.",
             "location": "California, USA",
-            "tastingNotes": "Plum, Chocolate",
-            "mealPairings": "Chicken, Turkey",
+            "tastingNotes": "sthvj, qg4lr",
+            "mealPairings": "gyu0a, 65djm",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,320,351,357,360,361,365,367,374,378,381,382,383,384,385,387,388,389,390,391,392,394,396,397,398,399",
             "id": "187065"
         },
         {
@@ -36149,9 +36162,10 @@
             "fullName": null,
             "description": "This elegant Pinot Noir offers a delicate balance of bright cherry fruit flavors and subtle earthy notes for a classic taste.",
             "location": "California, USA",
-            "tastingNotes": "Cherry, Oak",
-            "mealPairings": "Grilled Salmon",
+            "tastingNotes": "fieu4, 6a5w4",
+            "mealPairings": "4v172",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,32,34,36,39,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,174,179,180,181,183,186,188,198,199,211,214,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,244,246,351,357,360,361,365,367,374,381,382,383,384,385,389,390,391,392,394,396,397,398,399",
             "id": "100129"
         },
         {
@@ -36167,9 +36181,10 @@
             "fullName": null,
             "description": "A benchmark for Napa Valley Cabernet, this wine is a stunning example of the region's power, complexity, and elegance.",
             "location": "Napa Valley, California",
-            "tastingNotes": "Black Cherry, Blackcurrant",
-            "mealPairings": "Braised Short Ribs",
+            "tastingNotes": "0h4u8, uvff6",
+            "mealPairings": "51cp7",
             "award": "decanter_93",
+            "stores": "7,8,10,13,15,23,31,34,39,51,55,69,84,91,101,102,105,107,108,110,114,123,125,126,128,134,135,139,150,151,169,171,177,179,183,188,197,199,211,214,215,216,219,221,223,224,225,226,228,231,233,234,235,236,239,244,309,320,357,382,383,384,385,387,389,390,391,392,394,396,397,398",
             "id": "26407"
         },
         {
@@ -36185,9 +36200,10 @@
             "fullName": null,
             "description": "From the producer that championed Merlot in America, this wine is the definition of lush, complex, and luxurious.",
             "location": "Napa Valley, California",
-            "tastingNotes": "Plum, Black Cherry, Chocolate",
-            "mealPairings": "Chicken, Turkey",
+            "tastingNotes": "sthvj, 0h4u8, qg4lr",
+            "mealPairings": "gyu0a, 65djm",
             "award": "jamesSuckling_93",
+            "stores": "7,8,31,32,33,34,36,39,46,51,54,55,62,101,105,106,107,111,123,146,174,179,211,216,219,224,225,228,234,236,351,360,367,381,383,387,388,397,398,399",
             "id": "8958"
         },
         {
@@ -36203,9 +36219,10 @@
             "fullName": null,
             "description": "An elegant and approachable Cabernet with dark fruit flavors and a smooth finish.",
             "location": "California",
-            "tastingNotes": "Blackberry, Baking Spice",
-            "mealPairings": "Steak, BBQ, Burgers",
+            "tastingNotes": "51cp7, e1i4f",
+            "mealPairings": "51cp7, uvff6",
             "award": "wine_enthusiast_92",
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,320,351,357,360,361,365,367,374,378,381,382,383,384,385,387,388,389,390,391,392,394,396,397,398,399",
             "id": "285020"
         },
         {
@@ -36221,9 +36238,10 @@
             "fullName": null,
             "description": "A delicious and approachable Bordeaux-style blend from Duckhorn that consistently over-delivers on richness and quality.",
             "location": "California",
-            "tastingNotes": "Plum, Black Cherry, Oak",
-            "mealPairings": "Pizza, Pasta",
+            "tastingNotes": "sthvj, 0h4u8, 6a5w4",
+            "mealPairings": "wwwd4, gm1y4",
             "award": "wine_enthusiast_93",
+            "stores": "7,8,23,39,51,62,91,109,126,129,179,216,219,223,224,225,226,227,228,231,233,237,239,244,390,399",
             "id": "32744"
         },
         {
@@ -36239,9 +36257,10 @@
             "fullName": null,
             "description": "A rich and robust Ruby Port that is blended from a selection of fine aged wines, offering complexity and a long finish.",
             "location": "Douro, Portugal",
-            "tastingNotes": "Plum, Blackberry, Fruity",
-            "mealPairings": "Chocolates, Desserts",
+            "tastingNotes": "sthvj, 51cp7, wwwd4",
+            "mealPairings": "2mkue, 0h4u8",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,32,33,34,36,39,41,51,54,55,62,69,84,91,96,101,102,105,106,107,108,109,111,120,122,124,125,126,128,129,130,133,135,139,146,147,150,152,154,169,170,174,179,180,181,183,186,191,198,199,211,214,216,221,223,224,225,226,227,228,231,233,235,236,238,244,246,360,361,365,367,381,382,383,384,385,389,390,392,396,398,399",
             "id": "319023"
         },
         {
@@ -36257,9 +36276,10 @@
             "fullName": null,
             "description": "Sweet, spunky, fizzy, never flat. Always chillin'. The real deal.",
             "location": "Northern Italy",
-            "tastingNotes": "Cherry, Strawberry",
-            "mealPairings": "Fudgy Brownies",
+            "tastingNotes": "fieu4, gja71",
+            "mealPairings": "2mkue, 0h4u8",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,320,351,357,360,361,365,367,374,378,381,382,383,384,385,387,388,389,390,391,392,394,396,397,398,399",
             "id": "285024"
         },
         {
@@ -36275,9 +36295,10 @@
             "fullName": null,
             "description": "A smart choice from Napa Valley, this Cabernet consistently delivers the region's classic rich fruit and structure at a fair price.",
             "location": "Napa Valley, California",
-            "tastingNotes": "Blackberry, Fruity, Chocolate",
-            "mealPairings": "Steak, BBQ, Burgers",
+            "tastingNotes": "51cp7, wwwd4, qg4lr",
+            "mealPairings": "51cp7, uvff6",
             "award": null,
+            "stores": "7,8,13,20,23,29,36,39,51,62,70,84,91,105,107,109,114,126,134,139,179,211,216,220,223,224,225,227,228,233,236,237,239,244,394,397,399",
             "id": "32746"
         },
         {
@@ -36293,9 +36314,10 @@
             "fullName": null,
             "description": "A robust red offering rich berries and rounded tannins.",
             "location": "Columbia Valley, Washington",
-            "tastingNotes": "Blackberry, Oak",
-            "mealPairings": "Steak, BBQ, Burgers",
+            "tastingNotes": "51cp7, 6a5w4",
+            "mealPairings": "51cp7, uvff6",
             "award": null,
+            "stores": "7,8,10,13,20,23,29,31,33,34,36,39,51,55,62,70,84,91,96,101,102,105,107,108,109,114,122,124,126,128,129,130,134,139,144,150,151,170,179,181,186,198,211,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,239,244,246,367,382,383,384,385,389,390,391,392,394,396,397,398,399",
             "id": "355887"
         },
         {
@@ -36311,9 +36333,10 @@
             "fullName": null,
             "description": "A crowd-pleasing and smooth red blend that is fruit-forward and easy to enjoy, perfect for any casual gathering.",
             "location": "Columbia Valley, Washington",
-            "tastingNotes": "Blackberry, Plum, Baking Spice",
-            "mealPairings": "BBQ Pork",
+            "tastingNotes": "51cp7, sthvj, e1i4f",
+            "mealPairings": "lhkeb",
             "award": null,
+            "stores": "7,8,10,13,23,34,39,51,55,91,101,105,107,109,115,122,124,126,128,129,134,170,179,181,211,216,219,223,224,225,226,227,231,233,234,235,236,237,239,244,246,382,384,385,389,390,391,392,396,397,398",
             "id": "27784"
         },
         {
@@ -36329,9 +36352,10 @@
             "fullName": null,
             "description": "A quintessential Oregon Pinot Noir, offering exceptional quality and a complex flavor profile for a remarkable value.",
             "location": "Willamette Valley, Oregon",
-            "tastingNotes": "Cherry, Berry, Plum",
-            "mealPairings": "Chicken, Turkey",
+            "tastingNotes": "fieu4, 2mkue, sthvj",
+            "mealPairings": "gyu0a, 65djm",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,34,39,41,51,55,69,70,84,91,96,101,102,105,107,108,109,110,111,114,115,118,120,122,124,125,126,128,129,130,133,134,135,139,144,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,214,215,216,219,220,221,223,224,225,226,227,231,233,235,237,238,239,240,244,246,309,310,320,357,361,365,374,382,384,385,389,390,391,392,394,396,397,398",
             "id": "17965"
         },
         {
@@ -36347,9 +36371,10 @@
             "fullName": null,
             "description": "A lighter, brighter expression of the classic Meiomi style, this Pinot Noir offers crisp acidity and vibrant red fruit.",
             "location": "California, USA",
-            "tastingNotes": "Strawberry, Berry, Cherry",
-            "mealPairings": "Goat Cheese Salad",
+            "tastingNotes": "gja71, 2mkue, fieu4",
+            "mealPairings": "pyoof",
             "award": null,
+            "stores": "7,17,20,23,36,39,51,55,62,70,84,105,107,108,109,114,126,128,129,150,169,179,181,211,216,219,220,223,224,225,231,236,237,239,246,382,390,397,398,399",
             "id": "328073"
         },
         {
@@ -36365,9 +36390,10 @@
             "fullName": null,
             "description": "A distinctly rich and bold Cabernet Sauvignon made in the signature smooth and fruit-forward Meiomi style of winemaking.",
             "location": "California, USA",
-            "tastingNotes": "Blackberry, Fruity, Chocolate",
-            "mealPairings": "Steak, BBQ, Burgers",
+            "tastingNotes": "51cp7, wwwd4, qg4lr",
+            "mealPairings": "51cp7, uvff6",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,34,39,51,55,62,69,70,84,91,96,102,105,107,108,109,110,114,115,118,120,122,124,125,126,128,129,130,133,134,135,144,147,150,151,152,154,169,170,171,177,179,181,183,186,188,191,199,211,214,215,216,219,220,221,223,224,225,226,227,231,233,234,235,236,237,238,239,244,246,357,361,365,374,378,382,383,384,385,389,390,391,392,394,396,397,398,399",
             "id": "267645"
         },
         {
@@ -36383,9 +36409,10 @@
             "fullName": null,
             "description": "One of America's most popular Pinot Noirs, beloved for its rich, smooth, and fruit-forward style with a hint of sweet oak.",
             "location": "California, USA",
-            "tastingNotes": "Cherry, Berry, Chocolate",
-            "mealPairings": "Chicken, Turkey",
+            "tastingNotes": "fieu4, 2mkue, qg4lr",
+            "mealPairings": "gyu0a, 65djm",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,320,351,357,360,361,365,367,374,378,381,382,383,384,385,387,388,389,390,391,392,394,396,397,398,399",
             "id": "37606"
         },
         {
@@ -36401,9 +36428,10 @@
             "fullName": null,
             "description": "A smooth and approachable Cabernet that delivers rich dark fruit flavors with a hint of vanilla from barrel aging.",
             "location": "California, USA",
-            "tastingNotes": "Black Cherry, Blackberry, Vanilla",
-            "mealPairings": "Steak, BBQ, Burgers",
+            "tastingNotes": "0h4u8, 51cp7, 605pe",
+            "mealPairings": "51cp7, uvff6",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,351,357,360,361,365,367,374,378,381,382,383,384,385,389,390,391,392,394,396,397,398,399",
             "id": "327840"
         },
         {
@@ -36419,9 +36447,10 @@
             "fullName": null,
             "description": "A reliable and classic choice for everyday Cabernet, offering consistent quality with smooth dark fruit and soft tannins.",
             "location": "California, USA",
-            "tastingNotes": "Blackberry, Cherry, Oak",
-            "mealPairings": "Pizza, Pasta",
+            "tastingNotes": "51cp7, fieu4, 6a5w4",
+            "mealPairings": "wwwd4, gm1y4",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,320,351,357,360,361,365,367,374,378,381,382,383,384,385,387,388,389,390,391,392,394,396,397,398,399",
             "id": "190349"
         },
         {
@@ -36437,9 +36466,10 @@
             "fullName": null,
             "description": "A light and silky Pinot Noir that offers bright red fruit flavors and a smooth finish, making it an excellent value choice.",
             "location": "California, USA",
-            "tastingNotes": "Cherry, Berry, Baking Spice",
-            "mealPairings": "Mushroom Risotto",
+            "tastingNotes": "fieu4, 2mkue, e1i4f",
+            "mealPairings": "4j4uf",
             "award": null,
+            "stores": "8,10,13,15,17,20,23,29,31,34,41,55,69,70,84,91,96,102,108,109,110,114,115,118,120,122,124,125,126,128,129,130,133,134,135,139,144,147,150,151,152,154,169,170,171,177,180,181,183,186,188,191,197,198,199,203,214,215,219,220,221,223,226,227,231,233,235,237,238,239,240,244,246,309,310,320,357,361,365,374,378,382,383,384,387,388,389,390,391,392,396",
             "id": "342249"
         },
         {
@@ -36455,9 +36485,10 @@
             "fullName": null,
             "description": "A sweet and juicy blend that tastes like summer in a glass. Perfect for casual sipping and warm-weather gatherings.",
             "location": "Florida, USA",
-            "tastingNotes": "Strawberry, Fruity",
-            "mealPairings": "Spicy Tacos",
+            "tastingNotes": "gja71, wwwd4",
+            "mealPairings": "f6u3q",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,39,41,46,51,54,55,62,69,70,84,91,101,105,106,107,108,109,110,114,118,120,123,124,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,171,174,177,179,180,181,183,186,191,198,199,211,214,215,216,220,221,224,225,227,228,231,233,235,237,239,240,244,246,351,361,365,367,374,378,381,382,385,391,392,396",
             "id": "343294"
         },
         {
@@ -36471,11 +36502,12 @@
             "brandName": "M\u00e9nage \u00e0 Trois",
             "productName": "Red Blend",
             "fullName": null,
-            "description": "A luscious and forward blend of three red varietals, creating a silky-smooth wine that is both rich and easy to drink.",
-            "location": "California, USA",
-            "tastingNotes": "Blackberry, Vanilla",
-            "mealPairings": "Pizza, Pasta",
+            "description": "Smooth and fruit-forward ripe berries, vanilla, and a velvety finish in a luscious blend.",
+            "location": "California",
+            "tastingNotes": "2mkue, 605pe, wwwd4",
+            "mealPairings": "gyu0a, gm1y4, wwwd4",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,320,351,357,360,361,365,367,374,378,381,382,383,384,385,387,388,389,390,391,392,394,396,397,398,399",
             "id": "16329"
         },
         {
@@ -36487,13 +36519,14 @@
             "spotlight": false,
             "imageUrl": "https://firebasestorage.googleapis.com/v0/b/looma-dsn-v3.appspot.com/o/surveys%2Fbjs%2Fwine%2F64722.webp?alt=media",
             "brandName": "M\u00e9nage \u00e0 Trois",
-            "productName": "Silk",
+            "productName": "Silk Red Blend",
             "fullName": null,
-            "description": "Velvety and smooth, this red blend caresses the palate with sweet cherry and vanilla notes and a long, silky finish.",
-            "location": "California, USA",
-            "tastingNotes": "Mango",
-            "mealPairings": "Fish, Seafood",
+            "description": "The perfect blend of Pinot Noir with seamless cherry flavors, Malbec with velvety softness, and Petite Syrah with alluring depth.",
+            "location": "California",
+            "tastingNotes": "fieu4, sthvj, 605pe",
+            "mealPairings": "gyu0a, 4j4uf, fieu4",
             "award": null,
+            "stores": "7,8,10,13,23,33,34,36,39,51,55,62,70,84,91,101,105,107,109,110,122,124,125,126,128,129,134,146,151,170,179,181,211,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,239,244,246,365,367,382,383,384,385,389,390,391,392,394,396,397,398,399",
             "id": "64722"
         },
         {
@@ -36505,13 +36538,14 @@
             "spotlight": false,
             "imageUrl": "https://firebasestorage.googleapis.com/v0/b/looma-dsn-v3.appspot.com/o/surveys%2Fbjs%2Fwine%2F27513.webp?alt=media",
             "brandName": "Joel Gott",
-            "productName": "Cabernet Sauvignon",
+            "productName": "815 Cabernet Sauvignon",
             "fullName": null,
             "description": "A balanced and elegant Cabernet that reflects its diverse sourcing, offering rich fruit flavors without being overpowering.",
-            "location": "Central Coast, California, USA",
-            "tastingNotes": "Blackberry, Chocolate, Oak",
-            "mealPairings": "Lamb Chops",
+            "location": "California",
+            "tastingNotes": "uvff6, 0h4u8, 6a5w4",
+            "mealPairings": "51cp7, p2jnl, uvff6",
             "award": null,
+            "stores": "7,8,13,20,23,34,36,39,51,55,91,96,101,105,107,109,110,115,126,128,129,134,150,151,179,181,211,216,219,223,224,225,226,227,228,231,233,234,235,236,237,239,244,246,357,382,389,390,391,394,397,398,399",
             "id": "27513"
         },
         {
@@ -36527,9 +36561,10 @@
             "fullName": null,
             "description": "A soft and silky Pinot Noir that captures the region's coastal essence with bright red fruits, herbal spice, and earthy undertones.",
             "location": "Monterey, California",
-            "tastingNotes": "Cherry, Berry",
-            "mealPairings": "Grilled Chicken, Braised Short Ribs, Eggplant Parmesan",
+            "tastingNotes": "fieu4, 2mkue",
+            "mealPairings": "gyu0a, 51cp7",
             "award": "wine_enthusiast_88",
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,226,227,228,231,233,234,235,236,237,238,239,240,244,309,310,320,351,357,360,361,365,367,374,378,381,382,383,384,385,389,390,391,392,394,396,397,398,399",
             "id": "333299"
         },
         {
@@ -36545,9 +36580,10 @@
             "fullName": null,
             "description": "A full-bodied and smooth Cabernet from Sonoma County, delivering rich dark fruit flavors balanced with soft tannins.",
             "location": "California, USA",
-            "tastingNotes": "Blackberry, Plum, Oak",
-            "mealPairings": "Steak, BBQ, Burgers",
+            "tastingNotes": "51cp7, sthvj, 6a5w4",
+            "mealPairings": "51cp7, uvff6",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,226,227,228,231,233,234,235,236,237,239,240,244,246,309,310,320,351,357,360,361,365,367,374,378,381,382,383,384,385,388,389,390,391,392,394,396,397,398,399",
             "id": "333297"
         },
         {
@@ -36563,9 +36599,10 @@
             "fullName": null,
             "description": "A renowned Napa Valley Cabernet that beautifully expresses the region's character with elegance, structure, and complexity.",
             "location": "Napa Valley, California",
-            "tastingNotes": "Blackberry, Blackcurrant, Vanilla",
-            "mealPairings": "Steak, BBQ, Burgers",
+            "tastingNotes": "51cp7, uvff6, 605pe",
+            "mealPairings": "51cp7, uvff6",
             "award": null,
+            "stores": "7,8,32,33,36,46,51,54,62,69,84,101,105,111,154,174,179,211,216,221,224,228,234,235,236,351,360,367,381,382,383,384,387,388,389,394,399",
             "id": "342241"
         },
         {
@@ -36581,9 +36618,10 @@
             "fullName": null,
             "description": "A modern benchmark for Rioja Crianza, this wine is fruit-forward and vibrant with a perfect touch of oak and spice.",
             "location": "Rioja, Spain",
-            "tastingNotes": "Cherry, Strawberry, Vanilla",
-            "mealPairings": "Pork BBQ",
+            "tastingNotes": "fieu4, gja71, 605pe",
+            "mealPairings": "lhkeb",
             "award": null,
+            "stores": "8,32,51,54,91,106,107,108,109,111,120,125,126,128,129,133,135,154,169,170,171,174,179,181,183,188,191,199,219,221,223,226,227,231,233,238,361,365,367,382,383,390,398",
             "id": "275360"
         },
         {
@@ -36599,9 +36637,10 @@
             "fullName": null,
             "description": "An elegant and complex Reserva from a top Rioja producer, balancing mature fruit with savory notes of spice and leather.",
             "location": "Rioja, Spain",
-            "tastingNotes": "Black Cherry",
-            "mealPairings": "Cheese, Charcuterie",
+            "tastingNotes": "0h4u8",
+            "mealPairings": "oeiq0, fieu4",
             "award": null,
+            "stores": "32,51,54,91,106,108,109,111,125,126,128,130,133,135,154,170,174,179,181,188,191,199,223,226,227,231,233,365,367,382,390",
             "id": "263478"
         },
         {
@@ -36617,9 +36656,10 @@
             "fullName": null,
             "description": "A flagship wine from Paso Robles, this Cabernet Sauvignon is acclaimed for its balance of rich fruit and elegant structure.",
             "location": "Paso Robles, CA",
-            "tastingNotes": "Fruity, Baking Spice",
-            "mealPairings": "Steak, BBQ, Burgers",
+            "tastingNotes": "wwwd4, e1i4f",
+            "mealPairings": "51cp7, uvff6",
             "award": null,
+            "stores": "7,10,15,17,20,23,29,31,32,33,34,36,39,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,351,357,360,361,365,367,374,381,382,383,384,385,389,390,391,392,394,396,397,398",
             "id": "29506"
         },
         {
@@ -36635,9 +36675,10 @@
             "fullName": null,
             "description": "A dry and beautifully crisp ros\u00e9 that is light on its feet, bursting with the refreshing flavors of summer strawberries.",
             "location": "California, USA",
-            "tastingNotes": "Strawberry, Peach, Floral",
-            "mealPairings": "Grilled Vegetables",
+            "tastingNotes": "gja71, xu5m9, gm1y4",
+            "mealPairings": "05rrw",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,34,39,41,51,55,62,69,70,84,91,96,101,102,105,107,108,109,110,114,115,118,120,122,124,125,126,128,129,130,133,134,135,139,144,147,150,151,152,154,169,170,171,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,320,357,361,365,374,378,382,383,384,385,387,388,389,390,391,392,394,396,397,398,399",
             "id": "155897"
         },
         {
@@ -36651,11 +36692,12 @@
             "brandName": "Gerard Bertrand",
             "productName": "C\u00f4te des Roses",
             "fullName": null,
-            "description": "A bright and elegant rose from the South of France - Cote des Roses delights with notes of summer fruits, berries, and a crisp, floral finish. ",
+            "description": "A bright and elegant rose from the South of France - Cote des Roses delights with notes of summer fruits, berries, and a crisp, floral finish.",
             "location": "Languedoc, France",
-            "tastingNotes": "Grapefruit, Berries, Floral  ",
-            "mealPairings": "Mediterranean Dishes",
-            "award": "90 points, Decanter ",
+            "tastingNotes": "z7oxt, 2mkue, gm1y4",
+            "mealPairings": "rn7qp, c4krz",
+            "award": "90 points, Decanter",
+            "stores": "7,8,13,15,20,23,29,31,32,34,39,51,54,55,62,70,84,91,101,105,106,107,108,109,110,111,114,123,126,128,129,139,151,170,174,179,181,211,214,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,239,244,246,351,367,381,382,383,385,390,391,392,394,397,398",
             "id": "182218"
         },
         {
@@ -36671,9 +36713,10 @@
             "fullName": null,
             "description": "An iconic and elegant dry ros\u00e9 from Provence, France, known for its crisp acidity, and delicate red berry and floral notes.",
             "location": "Provence, France",
-            "tastingNotes": "Strawberry, Peach, Floral",
-            "mealPairings": "Salad, Veggies",
+            "tastingNotes": "gja71, xu5m9, gm1y4",
+            "mealPairings": "rn7qp, c4krz",
             "award": null,
+            "stores": "7,8,13,15,17,20,23,29,32,34,41,51,54,55,62,70,84,91,101,105,106,107,108,109,111,114,118,120,122,123,125,128,130,135,146,151,154,170,174,177,179,180,181,183,186,197,198,211,214,215,216,220,221,224,225,227,228,231,234,236,238,244,246,320,357,361,365,367,374,381,383,384,385,391,392,394,397,398,399",
             "id": "68686"
         },
         {
@@ -36689,9 +36732,10 @@
             "fullName": null,
             "description": "The world's most popular ros\u00e9, this wine is the benchmark for the dry, crisp, and elegant style of Provence ros\u00e9s.",
             "location": "Provence, France",
-            "tastingNotes": "Strawberry, Peach, Grapefruit",
-            "mealPairings": "Salad, Veggies",
+            "tastingNotes": "gja71, xu5m9, z7oxt",
+            "mealPairings": "rn7qp, c4krz",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,320,351,357,360,361,365,367,374,381,382,383,384,385,389,390,391,392,394,396,397,398",
             "id": "32748"
         },
         {
@@ -36707,9 +36751,10 @@
             "fullName": null,
             "description": "A classic, affordable, and consistently delicious dry ros\u00e9 from France that is perfect for everyday sipping and entertaining.",
             "location": "Sonoma County, CA",
-            "tastingNotes": "Blackberry, Vanilla, Baking Spice",
-            "mealPairings": "Burgers, Baked Potatoes, Grilled Veggies",
+            "tastingNotes": "51cp7, 605pe, e1i4f",
+            "mealPairings": "p2jnl, 05rrw",
             "award": "wine_enthusiast_93",
+            "stores": "7,8,10,13,17,20,23,29,31,34,39,51,55,62,69,70,84,91,101,107,108,109,110,114,118,120,125,126,128,129,130,133,134,135,144,147,150,151,152,154,170,171,179,181,186,198,199,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,235,236,237,238,239,244,246,357,361,374,378,382,383,384,385,389,390,391,392,394,396,399",
             "id": "99026"
         },
         {
@@ -36725,9 +36770,10 @@
             "fullName": null,
             "description": "Crisp, vibrant, and refreshingly bubbly. This Italian sparkling wine is perfect for toasts, cocktails, or any celebration.",
             "location": "Italy",
-            "tastingNotes": "Apple, Lemon, Floral",
-            "mealPairings": "Cheese, Charcuterie",
+            "tastingNotes": "c4krz, 0t0mi, gm1y4",
+            "mealPairings": "oeiq0, fieu4",
             "award": null,
+            "stores": "7,8,10,13,15,20,23,29,32,33,34,36,39,51,54,55,62,70,84,91,101,105,106,107,108,109,110,111,114,122,126,128,129,134,139,146,170,174,179,211,214,216,219,220,223,224,225,226,227,228,231,234,236,237,239,244,246,351,360,367,381,382,383,385,389,390,391,394,396,397,398,399",
             "id": "199220"
         },
         {
@@ -36743,9 +36789,10 @@
             "fullName": null,
             "description": "America's most popular Champagne-method sparkling wine, known for its crisp, refreshing style and celebratory nature.",
             "location": "Sonoma County, California",
-            "tastingNotes": "Citrus, Apple, Vanilla",
-            "mealPairings": "Fish, Seafood",
+            "tastingNotes": "gyu0a, c4krz, 605pe",
+            "mealPairings": "e1i4f",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,320,351,357,360,361,365,367,374,378,381,382,383,384,385,387,388,389,390,391,392,394,396,397,398,399",
             "id": "121967"
         },
         {
@@ -36761,9 +36808,10 @@
             "fullName": null,
             "description": "A classic California sparkling wine from a famous French-owned house, offering bright fruit and a crisp, refreshing finish.",
             "location": "Napa Valley, California",
-            "tastingNotes": "Apple, Pear, Citrus",
-            "mealPairings": "Fish, Seafood",
+            "tastingNotes": "c4krz, eme8w, gyu0a",
+            "mealPairings": "e1i4f",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,39,41,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,320,351,357,360,361,365,367,374,381,382,383,384,385,389,390,391,392,394,396,397,398,399",
             "id": "548553"
         },
         {
@@ -36779,9 +36827,10 @@
             "fullName": null,
             "description": "The world's most famous Champagne, Imp\u00e9rial Brut is celebrated for its bright fruitiness, seductive palate, and elegance.",
             "location": "Champagne, France",
-            "tastingNotes": "Apple, Citrus, Brioche",
-            "mealPairings": "Fish, Seafood",
+            "tastingNotes": "c4krz, gyu0a, f6u3q",
+            "mealPairings": "e1i4f",
             "award": null,
+            "stores": "8,13,23,31,32,34,39,41,51,69,70,84,91,96,101,102,105,107,110,111,115,122,124,129,134,144,146,147,154,169,170,179,181,183,188,191,199,211,216,223,224,225,226,227,234,235,236,237,244,246,351,357,383,384,385,387,390,391,392,394,396,397",
             "id": "302937"
         },
         {
@@ -36797,9 +36846,10 @@
             "fullName": null,
             "description": "A rich and luscious demi-sec (sweet) ros\u00e9 Champagne, bursting with intense red fruit flavors and a creamy texture.",
             "location": "Champagne, France",
-            "tastingNotes": "Berry, Cherry, Strawberry",
-            "mealPairings": "Asian dishes, Hot and Spicy foods, Fruit Desserts",
+            "tastingNotes": "2mkue, fieu4, gja71",
+            "mealPairings": "qg4lr, 0h4u8",
             "award": null,
+            "stores": "7,8,13,15,17,20,23,29,31,32,33,34,36,39,46,51,54,55,62,69,70,84,91,101,105,106,107,108,109,110,111,114,120,123,125,126,128,129,130,133,134,135,139,146,151,154,170,174,179,181,183,197,199,203,211,214,216,219,220,221,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,351,357,360,365,367,378,381,383,384,385,389,390,391,392,394,397,398,399",
             "id": "342832"
         },
         {
@@ -36815,9 +36865,10 @@
             "fullName": null,
             "description": "An iconic Champagne, famous for its yellow label and rich, full-bodied style that is balanced by crisp, fresh acidity.",
             "location": "Champagne, France",
-            "tastingNotes": "Apple, Pear, Brioche",
-            "mealPairings": "Fish, Seafood",
+            "tastingNotes": "c4krz, eme8w, f6u3q",
+            "mealPairings": "e1i4f",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,320,351,357,360,361,365,367,374,378,381,382,383,384,385,389,390,391,392,394,396,397,398,399",
             "id": "278831"
         },
         {
@@ -36833,9 +36884,10 @@
             "fullName": null,
             "description": "An elegant and flavorful ros\u00e9 Champagne that is bursting with fresh red fruit aromas and the house's signature richness.",
             "location": "Champagne, France",
-            "tastingNotes": "Strawberry, Berry, Cherry",
-            "mealPairings": "Lasagna, Antipasti, Red Berries",
+            "tastingNotes": "gja71, 2mkue, fieu4",
+            "mealPairings": "di32h, fieu4",
             "award": null,
+            "stores": "8,13,15,20,23,29,31,34,101,105,107,109,110,128,129,211,216,219,221,223,224,226,227,231,234,235,236,244,246,382,390,392,394,396,397",
             "id": "285011"
         },
         {
@@ -36851,9 +36903,10 @@
             "fullName": null,
             "description": "A premier Napa Valley sparkling wine that delivers classic French elegance with the vibrant fruit character of California.",
             "location": "Napa Valley, California, USA",
-            "tastingNotes": "Apple, Pear, Brioche",
-            "mealPairings": "Fish, Seafood",
+            "tastingNotes": "c4krz, eme8w, f6u3q",
+            "mealPairings": "e1i4f",
             "award": null,
+            "stores": "8,13,15,20,23,29,34,39,41,51,55,69,70,84,101,107,108,109,118,120,125,126,128,129,130,133,135,139,151,152,154,170,177,179,180,181,183,186,197,198,199,211,214,215,216,219,221,223,225,231,233,237,238,239,244,246,309,320,361,365,378,383,391,394,397,398,399",
             "id": "215686"
         },
         {
@@ -36869,9 +36922,10 @@
             "fullName": null,
             "description": "Balanced and well structured, with just the right amount of bite.",
             "location": "California",
-            "tastingNotes": "Crisp Apple, Vanilla Bean, Asian Pear",
-            "mealPairings": "Smoky Grilled Garlic Mussels ",
+            "tastingNotes": "c4krz, 605pe, eme8w",
+            "mealPairings": "e1i4f",
             "award": null,
+            "stores": "8,10,13,15,17,20,23,29,34,55,69,70,84,91,101,105,108,109,110,120,126,128,129,133,134,139,147,151,154,169,171,180,181,183,198,199,211,214,219,220,221,223,226,227,231,233,235,237,238,239,244,246,357,361,365,378,382,384,385,389,390,391,392,396",
             "id": "328201"
         },
         {
@@ -36887,9 +36941,10 @@
             "fullName": null,
             "description": "All the vibrant flavor you expect from Kim Crawford, but with fewer calories and less alcohol for lighter enjoyment.",
             "location": "Marlborough, New Zealand",
-            "tastingNotes": "Passion Fruit, Herbal, Citrus",
-            "mealPairings": "Grilled Vegetables",
+            "tastingNotes": "ekqn0, 05rrw, gyu0a",
+            "mealPairings": "05rrw",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,33,34,36,39,41,46,51,55,69,70,84,91,96,101,102,105,106,107,108,109,110,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,231,233,235,236,237,238,239,240,244,246,309,310,320,357,360,361,365,367,374,382,384,385,389,390,391,392,394,396,398,399",
             "id": "290016"
         },
         {
@@ -36905,9 +36960,10 @@
             "fullName": null,
             "description": "The benchmark for New Zealand Sauvignon Blanc, celebrated globally for its intense, zesty, and aromatic fruit profile.",
             "location": "Marlborough, New Zealand",
-            "tastingNotes": "Passion Fruit, Melon, Grapefruit",
-            "mealPairings": "Seafood",
+            "tastingNotes": "ekqn0, b7o25, z7oxt",
+            "mealPairings": "e1i4f",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,320,351,357,360,361,365,367,374,378,381,382,383,384,385,387,388,389,390,391,392,394,396,397,398,399",
             "id": "14291"
         },
         {
@@ -36923,9 +36979,10 @@
             "fullName": null,
             "description": "A bright and modern Italian Pinot Grigio, offering crisp acidity with refreshing notes of orchard fruit and white flowers.",
             "location": "Italy",
-            "tastingNotes": "Apple, Citrus, Pear",
-            "mealPairings": "Fresh Seafood",
+            "tastingNotes": "c4krz, gyu0a, eme8w",
+            "mealPairings": "e1i4f",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,357,360,361,365,367,374,378,382,383,384,385,389,390,391,392,394,396,397,398,399",
             "id": "9179"
         },
         {
@@ -36941,9 +36998,10 @@
             "fullName": null,
             "description": "A world-renowned New Zealand Sauvignon Blanc, celebrated for its zesty, aromatic character and burst of tropical fruit flavors.",
             "location": "Marlborough, New Zealand",
-            "tastingNotes": "Passion Fruit, Lemon",
-            "mealPairings": "Salads, Seafood",
+            "tastingNotes": "ekqn0, 0t0mi",
+            "mealPairings": "rn7qp, e1i4f",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,351,357,360,361,365,367,374,378,381,382,383,384,385,389,390,391,392,394,396,397,398,399",
             "id": "13484"
         },
         {
@@ -36959,9 +37017,10 @@
             "fullName": null,
             "description": "A bright and balanced California Chardonnay that combines refreshing citrus and stone fruit with a subtle, creamy oak touch.",
             "location": "California, USA",
-            "tastingNotes": "Citrus, Oak, Baking Spice",
-            "mealPairings": "Grilled Salmon",
+            "tastingNotes": "gyu0a, 6a5w4, e1i4f",
+            "mealPairings": "4v172",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,320,351,357,360,361,365,367,374,378,381,382,383,384,385,387,388,389,390,391,392,394,396,397,398,399",
             "id": "77196"
         },
         {
@@ -36977,9 +37036,10 @@
             "fullName": null,
             "description": "Crisp, bright, and utterly refreshing. This vibrant Pinot Grigio makes for a perfect sipper on a warm summer afternoon.",
             "location": "California, USA",
-            "tastingNotes": "Pear, Lemon",
-            "mealPairings": "Salad, Veggies",
+            "tastingNotes": "eme8w, 0t0mi",
+            "mealPairings": "rn7qp, c4krz",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,34,41,51,55,62,69,70,84,91,96,101,102,105,107,108,109,110,114,115,118,120,122,124,125,126,128,129,130,133,134,135,139,144,147,150,151,154,169,170,171,177,179,180,181,183,186,188,191,197,198,199,211,214,215,216,219,221,223,224,225,226,227,231,233,235,237,238,239,244,246,310,357,361,365,374,382,383,384,385,389,390,391,392,394,396,398,399",
             "id": "290019"
         },
         {
@@ -36995,9 +37055,10 @@
             "fullName": null,
             "description": "A unique Sauvignon Blanc blend crafted to capture the essence of the coast with bright fruit and a hint of salinity.",
             "location": "California Coast",
-            "tastingNotes": "Peach, Citrus",
-            "mealPairings": "Tacos, Burritos",
+            "tastingNotes": "xu5m9, gyu0a",
+            "mealPairings": "f6u3q, s0sny",
             "award": null,
+            "stores": "7,8,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,101,105,106,107,108,109,110,111,114,118,120,123,125,126,128,129,130,133,134,135,139,144,146,147,150,154,169,170,171,174,179,180,181,183,186,188,191,198,199,211,214,215,216,219,220,221,223,224,225,226,227,231,233,235,237,239,246,351,357,360,367,381,382,385,390,391,392,394,396,398,399",
             "id": "339144"
         },
         {
@@ -37013,9 +37074,10 @@
             "fullName": null,
             "description": "A legendary California Chardonnay, known for its crisp acidity, subtle oak integration, and exceptional food-friendliness.",
             "location": "Sonoma Coast, California",
-            "tastingNotes": "Apple, Pear, Oak",
-            "mealPairings": "Chicken, Turkey",
+            "tastingNotes": "c4krz, eme8w, 6a5w4",
+            "mealPairings": "gyu0a, 65djm",
             "award": "wine_enthusiast_90",
+            "stores": "7,8,13,15,20,23,29,32,33,34,36,39,46,51,54,55,62,84,91,96,101,102,105,106,107,108,109,110,111,115,122,123,124,126,128,129,134,144,146,151,152,174,179,181,211,214,216,219,221,223,224,225,226,227,228,231,233,234,235,236,237,239,244,351,357,360,367,381,382,383,384,385,389,390,391,392,394,397,398,399",
             "id": "20570"
         },
         {
@@ -37031,9 +37093,10 @@
             "fullName": null,
             "description": "A vibrant and refreshing Sauvignon Blanc from Duckhorn that balances zesty citrus notes with a hint of lush tropical fruit.",
             "location": "California",
-            "tastingNotes": "Grapefruit, Lemon, Passion Fruit",
-            "mealPairings": "Goat Cheese Salad",
+            "tastingNotes": "z7oxt, 0t0mi, ekqn0",
+            "mealPairings": "pyoof",
             "award": "wine_enthusiast_91",
+            "stores": "7,8,23,39,51,84,91,107,109,110,129,179,211,216,219,224,225,226,227,228,231,234,235,236,237,239,244,246,390,392,394",
             "id": "27330"
         },
         {
@@ -37049,9 +37112,10 @@
             "fullName": null,
             "description": "A quintessential Sonoma Chardonnay, this wine offers a luxurious, full-bodied experience with a creamy, lingering finish.",
             "location": "Sonoma County, California, USA",
-            "tastingNotes": "Meyer Lemon, Golden Apple, Vanilla Bean",
-            "mealPairings": "Seafood, Poultry, Cream Sauce Dishes",
+            "tastingNotes": "0t0mi, c4krz, 605pe",
+            "mealPairings": "e1i4f, gyu0a",
             "award": null,
+            "stores": "7,8,15,20,23,29,36,46,55,62,70,84,91,101,105,107,109,114,128,211,216,219,223,224,225,226,227,233,235,237,244,360,367,382,389,392,394,398,399",
             "id": "9539"
         },
         {
@@ -37067,9 +37131,10 @@
             "fullName": null,
             "description": "This Chardonnay captures the coastal influence of Monterey with its bright acidity, balanced fruit, and a touch of oak.",
             "location": "California, USA",
-            "tastingNotes": "Pineapple, Lemon, Vanilla",
-            "mealPairings": "Fish, Seafood",
+            "tastingNotes": "yejni, 0t0mi, 605pe",
+            "mealPairings": "e1i4f",
             "award": null,
+            "stores": "7,8,13,23,51,62,70,84,107,109,110,129,130,179,216,219,223,224,225,227,228,231,233,237,239,244,246,391,392,399",
             "id": "382795"
         },
         {
@@ -37085,9 +37150,10 @@
             "fullName": null,
             "description": "America's #1 Chardonnay for a reason. It's beloved for its signature creamy texture and lush tropical fruit flavors.",
             "location": "California (North Coast)",
-            "tastingNotes": "Pineapple, Mango, Vanilla",
-            "mealPairings": "Fish, Seafood",
+            "tastingNotes": "yejni, i1dkx, 605pe",
+            "mealPairings": "4v172, gyu0a, gm1y4",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,320,351,357,360,361,365,367,374,378,381,382,383,384,385,387,388,389,390,391,392,394,396,397,398,399",
             "id": "548561"
         },
         {
@@ -37103,9 +37169,10 @@
             "fullName": null,
             "description": "A premier cool-climate Chardonnay, this wine is celebrated for its balanced acidity, subtle oak, and elegant structure.",
             "location": "Sonoma Coast, California",
-            "tastingNotes": "Lemon, Apple, Oak",
-            "mealPairings": "Chicken, Turkey",
+            "tastingNotes": "0t0mi, c4krz, 6a5w4",
+            "mealPairings": "gyu0a, 65djm",
             "award": null,
+            "stores": "7,8,10,13,17,20,23,29,31,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,154,169,170,171,174,179,180,181,183,186,191,197,198,199,203,211,214,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,309,310,351,357,360,361,367,374,378,381,382,383,384,385,389,390,391,392,394,396,397,398,399",
             "id": "342252"
         },
         {
@@ -37121,9 +37188,10 @@
             "fullName": null,
             "description": "Rich, bold and luscious, with stone fruit, baked-lemon notes, and a long vanilla finish\u2014it melts in your mouth.",
             "location": "California, USA",
-            "tastingNotes": "Butter, Creamy",
-            "mealPairings": "Fried, Cheesy and Buttery Dishes",
+            "tastingNotes": "s0sny, 4j4uf",
+            "mealPairings": "gm1y4, gyu0a",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,33,34,36,39,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,114,115,118,120,122,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,179,180,181,183,186,188,191,197,198,199,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,351,357,360,361,367,381,382,383,384,385,389,390,391,392,394,396,397,398,399",
             "id": "94576"
         },
         {
@@ -37139,9 +37207,10 @@
             "fullName": null,
             "description": "The original benchmark for luxury New Zealand Sauvignon Blanc, this wine is intensely aromatic, vibrant, and unforgettable.",
             "location": "New Zealand",
-            "tastingNotes": "Passion Fruit, Lemon, Citrus, Peach",
-            "mealPairings": "Fish, Seafood",
+            "tastingNotes": "ekqn0, 0t0mi, gyu0a",
+            "mealPairings": "e1i4f",
             "award": null,
+            "stores": "7,8,10,13,20,23,29,31,32,33,34,36,41,46,51,54,55,62,69,70,91,101,105,106,107,108,109,111,120,123,126,128,129,134,135,139,146,170,174,179,181,183,186,199,211,214,216,221,223,224,225,226,227,228,231,234,236,237,238,239,244,310,351,360,361,367,374,381,382,383,387,388,390,392,394,396,397,398,399",
             "id": "19681"
         },
         {
@@ -37157,9 +37226,10 @@
             "fullName": null,
             "description": "With light refreshing flavors of citrus and green apple, it\u2019s no surprise that it comes from the #1 Italian Wine in America",
             "location": "Valdadige DOC, Tre Venezie, Italy",
-            "tastingNotes": "Apple, Citrus",
-            "mealPairings": "Fresh Seafood",
+            "tastingNotes": "c4krz, gyu0a",
+            "mealPairings": "e1i4f",
             "award": "wine_enthusiast_bestbuy",
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,320,351,357,360,361,365,367,374,378,381,382,383,384,385,387,388,389,390,391,392,394,396,397,398,399",
             "id": "281247"
         },
         {
@@ -37175,9 +37245,10 @@
             "fullName": null,
             "description": "A fresh, soft style with juicy citrus and apple fruit character.",
             "location": "Columbia Valley, Washington",
-            "tastingNotes": "Apple, Pear, Citrus",
-            "mealPairings": "Chicken, Turkey",
+            "tastingNotes": "c4krz, eme8w, gyu0a",
+            "mealPairings": "gyu0a, 65djm",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,320,351,357,360,361,365,367,374,378,381,382,383,384,385,389,390,391,392,394,396,397,398,399",
             "id": "274429"
         },
         {
@@ -37193,9 +37264,10 @@
             "fullName": null,
             "description": "A benchmark American Riesling, this wine offers just the right amount of sweetness to balance its crisp, fruity acidity.",
             "location": "Columbia Valley, Washington",
-            "tastingNotes": "Peach, Citrus, Floral",
-            "mealPairings": "Pad Thai",
+            "tastingNotes": "xu5m9, gyu0a, gm1y4",
+            "mealPairings": "qg4lr",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,34,36,39,41,51,55,62,69,70,84,91,96,101,102,105,107,108,109,110,114,115,118,120,122,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,226,227,231,233,235,236,237,238,239,240,244,246,309,310,320,357,361,365,374,378,382,383,384,385,387,388,389,390,391,392,394,396,397,398,399",
             "id": "256013"
         },
         {
@@ -37211,9 +37283,10 @@
             "fullName": null,
             "description": "An elegant and expressive Italian Pinot Grigio that balances juicy fruit flavors with a crisp, refreshing minerality.",
             "location": "Valdadige, Italy",
-            "tastingNotes": "Peach, Melon, Apple",
-            "mealPairings": "Pasta",
+            "tastingNotes": "xu5m9, b7o25, c4krz",
+            "mealPairings": "gm1y4",
             "award": null,
+            "stores": "7,8,23,39,51,84,107,109,126,129,134,179,216,219,223,224,225,226,227,228,231,233,237,239,390,391,392,394,398",
             "id": "191555"
         },
         {
@@ -37229,9 +37302,10 @@
             "fullName": null,
             "description": "One of America's go-to Chardonnays, this wine is consistently clean and bright with notes of apple and a hint of oak.",
             "location": "California, USA",
-            "tastingNotes": "Apple, Pear, Citrus",
-            "mealPairings": "Fish, Seafood",
+            "tastingNotes": "c4krz, eme8w, gyu0a",
+            "mealPairings": "e1i4f",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,320,351,357,360,361,365,367,374,378,381,382,383,384,385,387,388,389,390,391,392,394,396,397,398,399",
             "id": "272540"
         },
         {
@@ -37247,9 +37321,10 @@
             "fullName": null,
             "description": "A crisp, clean, and refreshing Sauvignon Blanc with lively citrus and herbaceous notes, perfect for a warm day.",
             "location": "California, USA",
-            "tastingNotes": "Grapefruit, Lemon, Melon",
-            "mealPairings": "Salad, Veggies",
+            "tastingNotes": "z7oxt, 0t0mi, b7o25",
+            "mealPairings": "rn7qp, c4krz",
             "award": null,
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,111,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,238,239,240,244,246,309,310,320,351,357,360,361,365,367,374,378,381,382,383,384,385,387,388,389,390,391,392,394,396,397,398,399",
             "id": "190381"
         },
         {
@@ -37265,9 +37340,10 @@
             "fullName": null,
             "description": "A fun, sweet, and tropical fruit wine that is bursting with juicy pineapple flavor. Serve chilled for maximum refreshment.",
             "location": "California, USA",
-            "tastingNotes": "Pineapple",
-            "mealPairings": "Cheese, Charcuterie",
+            "tastingNotes": "yejni",
+            "mealPairings": "oeiq0, fieu4",
             "award": null,
+            "stores": "7,8,13,15,17,20,23,29,31,33,34,36,39,51,55,62,69,70,84,91,107,108,109,110,114,120,126,128,129,130,133,139,144,147,150,151,152,154,169,171,179,180,181,183,186,191,198,199,211,214,215,216,220,221,224,225,227,228,231,233,235,237,239,240,244,246,382,390,391",
             "id": "343293"
         },
         {
@@ -37281,11 +37357,12 @@
             "brandName": "Seaglass",
             "productName": "Pinot Grigio",
             "fullName": null,
-            "description": "As crisp and clean as the sea, this Pinot Grigio is zesty and refreshing with bright citrus and mineral character.",
-            "location": "Santa Barbara County, California, USA",
-            "tastingNotes": "Apple, Citrus",
-            "mealPairings": "Salad, Veggies",
+            "description": "Central Coast beautifully showcased in this bright, crisp, well-balanced, and complex Pinot Grigio.",
+            "location": "California",
+            "tastingNotes": "b7o25, gm1y4, gyu0a",
+            "mealPairings": "e1i4f",
             "award": null,
+            "stores": "7,8,23,39,51,84,91,107,109,126,129,134,179,211,216,219,223,224,225,226,227,228,231,233,236,237,239,246,390,391,394,397,398",
             "id": "343292"
         },
         {
@@ -37300,10 +37377,11 @@
             "productName": "Chardonnay",
             "fullName": null,
             "description": "A vibrant and crisp Chardonnay from Sonoma County that exhibits bright fruit flavor with just a hint of oak",
-            "location": "Sonoma County, California ",
-            "tastingNotes": "Citrus, Pineapple, Apple",
-            "mealPairings": "Baked Fish, Grilled Chicken, Caesar Salad",
+            "location": "Sonoma County, California",
+            "tastingNotes": "gyu0a, yejni, c4krz",
+            "mealPairings": "e1i4f, gyu0a",
             "award": "wine_enthusiast_bestbuy",
+            "stores": "7,8,10,13,15,17,20,23,29,31,32,33,34,36,39,41,46,51,54,55,62,69,70,84,91,96,101,102,105,106,107,108,109,110,114,115,118,120,122,123,124,125,126,128,129,130,133,134,135,139,144,146,147,150,151,152,154,169,170,171,174,177,179,180,181,183,186,188,191,197,198,199,203,211,214,215,216,219,220,221,223,224,225,226,227,228,231,233,234,235,236,237,239,240,244,309,310,320,351,357,360,361,365,367,374,378,381,382,383,384,385,388,389,390,391,392,394,396,397,398,399",
             "id": "333296"
         }
     ],
